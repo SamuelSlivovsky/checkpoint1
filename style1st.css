@@ -266,6 +266,7 @@ body {
         background: white;
         opacity: 1;
         transition: 0.3s;
+        display: block;
 
     }
 
